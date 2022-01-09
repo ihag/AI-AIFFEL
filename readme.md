@@ -33,7 +33,6 @@
 |E18 |2CNN, OCR                          |[문자를 읽을 수 있는 딥러닝](./exploration_18)        |
 |E19 |2RNN, LSTM, BERT                   |[인간보다 퀴즈를 잘 푸는 인공지능](./exploration_19)   |
 |E20 |GAN, cGAN                          |[난 스케치를 할테니 넌 채색을 하거라](./exploration_20) |
----
 
 <br/>
 
